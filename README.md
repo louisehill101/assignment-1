@@ -5,12 +5,12 @@
 </head>
 <body style="background-color:lightgrey;">
 
-<h1 style="color: Black;">Louise hill e-portfolio</h1>
+<h1 style="color: red;">Louise hill e-portfolio</h1>
 <h1 style="Font-size:200%;">
 <p style="color:Black;">s3909882 / s3909884@rmit.edu.au</p>
 <img src="IMG-2130.jpg" alt="photo of louise" style="width:300px;height:400px;">
 
-<h1 style="color: Black;">Personal information</h1>
+<h1 style="color: red;">Personal information</h1>
 <h1 style="Font-size:100%;">
 <p style="color:black;">My name is Louise, I study IT at RMIT after moving from Canberra in
 March. I absolutely love Melbourne (especially the food here). I was born
@@ -20,7 +20,7 @@ university of Canberra but decided Tech suited me more. My favourite
 pastime would be Fashion; sewing and making clothes, but especially
 the up and coming trend of digital fashion.</p>
 
-<h1 style="color: black;">Interest in IT</h1>
+<h1 style="color: red;">Interest in IT</h1>
 <h1 style="Font-size:100%;">
 <p style="color: Black;">STEM in general has always sparked my interest. When i started to design my own clothes i was using 
 Different softwares/tools. This inspired me to get involved in the world of technology as my hobbies 
@@ -45,7 +45,7 @@ In this degree i would love to learn how to do more complex coding, AI, making a
 Security. I would also love to learn aspects of IT that I never knew existed before. I expect to be fully 
 Immersed in the IT world by the time i graduate.</p>
 
-<h1 style="color: Black;">Ideal job - Web developer</h1>
+<h1 style="color: red;">Ideal job - Web developer</h1>
 <h1 style="Font-size:130%;">
  <a href="https://www.seek.com.au/job/53400250?type=standout#searchRequestToken=c6f2460f-89fe-4576-be85-60c3c0d0f799t">Visit seek.com </a>
 <p style="color:Black;">A full stack web developer designs and develops websites for businesses and individuals. They work
@@ -67,7 +67,7 @@ teach me how to fit into the job, what to expect and how to expand my knowledge.
 I am studying I plan to network with a lot of creatives/it specialist to ensure i know what to expect 
 And how to grow in this industry.</p>
 
-<h1 style="color: Black;">Profile</h1>
+<h1 style="color: red;">Profile</h1>
 <h1 style="Font-size:100%;">
 
 <h1 style="color: Black;">Results of tests</h1>
@@ -80,7 +80,7 @@ And how to grow in this industry.</p>
  <a href="https://www.personalityperfect.com/test/free-personality-test/">visit personalityperfect.com</a> 
  
 
-<h1 style="color: Black;">What does this mean to me?</h1>
+<h1 style="color: red;">What does this mean to me?</h1>
 <h1 style="Font-size:130%;">
 <p style="color:Black;">These tests determine your personality. The myers briggs test determines how you perceive the 
 world,How you feel about social interactions, how you process things and how you work through 
@@ -101,7 +101,7 @@ We have and are open minded to changing ideas.
 I am passionate about being creative, for innovation I would like to see IT used in a different way to work with businesses and organisations to increase productivity and creativity. Creating different formats for websites, talking to other IT specialists and creatives to see how they would improve these formats would dramatically improve my knowledge and experience. Most importantly being open to constructive criticism. 
  </p>
 
-<h1 style="color: Black;">Project ideas</h1>
+<h1 style="color: red;">Project ideas</h1>
 <h1 style="Font-size:130%;">
  <h1 style="color: Black;">Overview</h1>
 <h1 style="Font-size:130%;">
