@@ -74,7 +74,6 @@ And how to grow in this industry.</p>
 <h1 style="Font-size:130%;">
 <p style="color:Black;">For the Myers-Briggs test the result was ENJT.</p>
 <a href="https://www.16personalities.com/">Visit 16personalities.com</a>
- <img src="entj.jpeg.png" alt="screenshot" style="width:300px;height:400px;">
 <p style="color:Black;">For the learning style test it was found that i am a visual learner.</p>
  <a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml">visit educationplanner.com</a> 
  <p style="color:Black;">For the personality perfect test; ENFJ.</p>
