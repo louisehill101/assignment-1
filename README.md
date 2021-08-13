@@ -103,6 +103,86 @@ I am passionate about being creative, for innovation I would like to see IT used
 
 <h1 style="color: Black;">Project ideas</h1>
 <h1 style="Font-size:130%;">
-<p style="color:Black;">Create a dicitation software that can be used for ecommerce websites. By utilising CMU sphinx, KALDI and HTK.</p>
+ <h1 style="color: Black;">Overview</h1>
+<h1 style="Font-size:130%;>
+<p style="color:Black;">Everyday people have to use websites; either for information, shopping and leisure. Naturally
+There will always be questions on how the website works, or for assistance. For my programming 
+project i will be creating a software that involves speech-to-text, and text-to-speech software. 
+This software will be used for e-commerce, profiles, science and economics.This will come into 
+effect when users have queries or use FAQ’s.</p>
+                       <h1 style="color: Black;">Motivation</h1>
+<h1 style="Font-size:130%;">
+                           <p style="color:Black;">For every business, it is important to stand out. To get customers to be interested and inspired 
+By a business it is essential that they deliver a unique and positive experience. This software 
+Allows customers and users to see that there is a huge focus on the experience, showing that they
+Care about the customers. According to a study by speechmatics, 33% of companies stated that
+Speech-to-text software improved customer experience. Another benefit is that it reduces cost.
+It is always a priority to make things budget friendly. A statistic from speechmatics 
+Stated that 42% of respondents were inclined to implement this technology for that reason alone.
+                                                  (speech matics, 2019).</p>
+                                                  <h1 style="color: Black;">Description</h1>
+<h1 style="Font-size:130%;">
+                           <p style="color:Black;"> The key features of this software formerly called dictation software, uses speech recognition in order to 
+Create texts. This is available for many different languages (English, Mandarin, French and many others).
+Users usually have a command on their device that initiates the software. For instance on Windows the 
+User needs to press the Windows logo key + H, and for mac the steps are Apple menu > System 
+Preferences, click Keyboard, then click Dictation. Click the pop-up menu below the microphone icon, 
+then choose the microphone you want to use for keyboard dictation. Then there will be an automated
+Voice saying something along the lines of “How can i help you today?”. There are some variations 
+that allows you to put in your name so the software says “how can i help you Louise”. Some examples
+Of these being used today are; Siri, Alexa and Cortana. People commonly use this software as an 
+AI assistant, giving Alexa commands for her to do to save time. These assistants have the capability
+To organise meetings, send texts, get direction, make phone calls and find places to eat. A great 
+Feature about dictation is that it is accessible for people with a disability. It also works the other way 
+Around. For instance, text-to-speech. If there is a word that has a difficult pronunciation, or if a user
+Is trying to learn a new language online, they can click an icon that voices the word or sentence. This 
+Icon is usually a microphone. Dictation software has been very popular in recent years as there are More people having to use their devices (COVID). This can shorten the time to write an essay or 
+Email by half. When using this feature, it is important to use punctuation. For instance; say “comma”,
+“Period”, “question mark” because the software isnt smart enough on its own to detect it. When the 
+Speech is unclear the reply will be something along the lines of “i didn't get that” or “i'm sorry i can't 
+ Help you”. On desktops the software works faster as opposed to mobile device. As of right now they
+Can only listen for 30 seconds before making mistakes. They can transcribe over 200 words per min.
+For context doctors can type 30 words per minute, It can also beat the touch typing record of 260
+ wpm. This is the most attractive feature of this software. It has become so common that is 
+Usually built into devices now. There still is a lot to improve on, for instance it can be faster, intake 
+More words, and involve more languages. However it is shown to be a staple in most companies like
+Apple, microsoft, amazon and Tesla. The software is reliable and makes life easier for users which is
+                                                  Why it is such a great tool to implement into websites.</p>
+                                                   <h1 style="color: Black;">Tools and technologies</h1>
+<h1 style="Font-size:130%;">
+                            <p style="color:Black;">In order to create your own dictation software there are things to consider. It is actually very difficult 
+Because of the following reasons; the spoken language is complex, people don’t always speak coherently,
+No two people speak the same and there is background noise. There are four main methods that have 
+Been used. They are; audio pattern matching, pattern and feature analysis, statistical analysis and 
+Modelling and artificial neural networks. Audio pattern matching is the most common and simple ways to
+Create voice to text. Using a spectrogram. This is a three dimensional graph with the y-axis being frequency
+And the x-axis being time. Each word has its own spectrogram, It recognises the word by comparing it to
+A spectrogram. This method is limited because it only hase a finite number of words. An extension of the 
+First method is feature analysis. As the first method is inefficient for all words, this method looks at the 
+Building blocks of words. Statistical analysis uses maths to check the words and find patterns. For this 
+Method you will need to have software to access statistical models containing this data. Artificial neural 
+Networks aim to use a more AI approach by making the computer act like a human brain. The tools are 
+                                                   Available through open source libraries. For instance CMU sphinx, KALDI and HTK.</p>
+                                                    <h1 style="color: Black;">Skills Required</h1>
+<h1 style="Font-size:130%;">
+                           <p style="color:Black;">For CMU sphinx, it uses Java. However there are bindings for python and C++.There is a tutorial on Github 
+Called “the Jasper project”. For KALDI it only uses C++ and for HTK (Hidden Markov Model toolkit) it is 
+Owned by microsoft and uses C programming language. In order to do this project you must have a 
+Strong background in either C++, Python, Java or C. Thankfully there are plenty of tutorials online that 
+                                                  Teach you how to write in these languages.</p>
+                                                  <h1 style="color: Black;">Outcome</h1>
+<h1 style="Font-size:130%;">
+                           <p style="color:Black;">Successful completion of this project would result a new and improved speech-to-text software. This will
+Be versatile enough to be used for many different websites. This will improve efficiency and make a 
+Positive impact on customer experience. This will impact anyone who wants to design their own websites.
+The experience and coding knowledge of  me and the other members will grow, which in turn will benefit 
+Us in the future. Even if the project is a failure, the experience is worth it. This innovation will change the 
+Way websites operate.</p>
+
+                           
+                                                  
+                                                   
+                                                  
+
 
 
