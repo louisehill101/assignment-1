@@ -104,7 +104,7 @@ I am passionate about being creative, for innovation I would like to see IT used
 <h1 style="color: Black;">Project ideas</h1>
 <h1 style="Font-size:130%;">
  <h1 style="color: Black;">Overview</h1>
-<h1 style="Font-size:130%;>
+<h1 style="Font-size:130%;">
 <p style="color:Black;">Everyday people have to use websites; either for information, shopping and leisure. Naturally
 There will always be questions on how the website works, or for assistance. For my programming 
 project i will be creating a software that involves speech-to-text, and text-to-speech software. 
