@@ -1,4 +1,3 @@
-# assignment-1
 <!DOCTYPE html>
 <html>
 <head>
@@ -19,8 +18,7 @@ in Cambodia but spent majority of my childhood in Canberra/Sydney
 and visiting home every year. I have studied a year of Finance at the
 university of Canberra but decided Tech suited me more. My favourite
 pastime would be Fashion; sewing and making clothes, but especially
-the up and coming trend of digital fashion.
-</p>
+the up and coming trend of digital fashion.</p>
 
 <h1 style="color: black;">Interest in IT</h1>
 <h1 style="Font-size:100%;">
@@ -45,12 +43,11 @@ have.
 
 In this degree i would love to learn how to do more complex coding, AI, making a website and cyber 
 Security. I would also love to learn aspects of IT that I never knew existed before. I expect to be fully 
-Immersed in the IT world by the time i graduate. 
-
- </p>
+Immersed in the IT world by the time i graduate.</p>
 
 <h1 style="color: Black;">Ideal job - Web developer</h1>
 <h1 style="Font-size:130%;">
+ <a href="https://www.seek.com.au/job/53400250?type=standout#searchRequestToken=c6f2460f-89fe-4576-be85-60c3c0d0f799t">Visit seek.com </a>
 <p style="color:Black;">A full stack web developer designs and develops websites for businesses and individuals. They work
 Both with the back end coding and front end presentation. This is appealing to me because i would 
 Love to work closely with people and build websites. 
@@ -68,9 +65,7 @@ knowledge on (for instance the music industry).
 By doing a degree in IT I will obtain the skills to create and design websites. This degree will also 
 teach me how to fit into the job, what to expect and how to expand my knowledge. During the period
 I am studying I plan to network with a lot of creatives/it specialist to ensure i know what to expect 
-And how to grow in this industry.
-</p>
-
+And how to grow in this industry.</p>
 
 <h1 style="color: Black;">Profile</h1>
 <h1 style="Font-size:100%;">
@@ -79,7 +74,11 @@ And how to grow in this industry.
 <h1 style="Font-size:130%;">
 <p style="color:Black;">For the Myers-Briggs test the result was ENJT.</p>
 <a href="https://www.16personalities.com/">Visit 16personalities.com</a>
-<p style="color:Black;">for the learning style test it was found that i am a visual learner.</p>
+<p style="color:Black;">For the learning style test it was found that i am a visual learner.</p>
+ <a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml">visit educationplanner.com</a> 
+ <p style="color:Black;">For the personality perfect test; ENFJ.</p>
+ <a href="https://www.personalityperfect.com/test/free-personality-test/">visit personalityperfect.com</a> 
+ 
 
 <h1 style="color: Black;">What does this mean to me?</h1>
 <h1 style="Font-size:130%;">
@@ -89,9 +88,8 @@ problems.This test Showed that i am an ENTJ(Extraversion (E), Intuition (N), Thi
 Judgment (J)), this means i am extroverted so I feel empowered by social interactions, I follow my 
 intuition which meansI make decisions based on how i feel rather than using facts. With the learning 
 the style test showed that I was a visual learner. This means i like to be shown how to to something or 
-I need pictures/tutorials in order to learn. With the multiphasic test it shows the different dimensions 
-to my personality, it showed that my main issue was focusing on things out of my control. 
-
+I need pictures/tutorials in order to learn. The perfect personality test was very similar to the Myers-Briggs test. It showed that i was a ENFJ. Extroverted (E), Intuitive (I), Feeling (F) and Thinking (T) these results are almost identical to the Myers-Briggs test. Which means i have a good grasp on what my personality is. 
+ 
 According to the Myers Briggs test, ENTJ are good leaders with the ability to be controlling. I think
 this may Interfere with how cohesive the team works. But as long as there is mutual respect and 
 communication there shouldn't be a problem.  
@@ -101,7 +99,7 @@ a strong understanding of the roles everyone is assigned to. Most importantly co
 We have and are open minded to changing ideas.
 
 I am passionate about being creative, for innovation I would like to see IT used in a different way to work with businesses and organisations to increase productivity and creativity. Creating different formats for websites, talking to other IT specialists and creatives to see how they would improve these formats would dramatically improve my knowledge and experience. Most importantly being open to constructive criticism. 
-
+ </p>
 
 <h1 style="color: Black;">project ideas</h1>
 <h1 style="Font-size:130%;">
