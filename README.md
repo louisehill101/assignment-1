@@ -8,7 +8,7 @@
 <h1 style="color: Black;">Louise hill e-portfolio</h1>
 <h1 style="Font-size:200%;">
 <p style="color:Black;">s3909882 / s3909884@rmit.edu.au</p>
-<img src="IMG-2130.jpg" alt="photo of louise"> style="width:500px;height:600px;">
+<img src="IMG-2130.jpg" alt="photo of louise"> style="width:400px;height:500px;">
 
 <h1 style="color: Black;">Personal information</h1>
 <h1 style="Font-size:100%;">
