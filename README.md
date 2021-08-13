@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+##<!DOCTYPE html>
 <html>
 <head>
 <title>Louise e-portfolio</title>
@@ -8,7 +8,7 @@
 <h1 style="color: Black;">Louise hill e-portfolio</h1>
 <h1 style="Font-size:200%;">
 <p style="color:Black;">s3909882 / s3909884@rmit.edu.au</p>
-<img src="IMG-2130.jpg" alt="photo of louise"> style="width:400px;height:500px;">
+<img src="IMG-2130.jpg" alt="photo of louise" style="width:400px;height:500px;">
 
 <h1 style="color: Black;">Personal information</h1>
 <h1 style="Font-size:100%;">
@@ -101,7 +101,7 @@ We have and are open minded to changing ideas.
 I am passionate about being creative, for innovation I would like to see IT used in a different way to work with businesses and organisations to increase productivity and creativity. Creating different formats for websites, talking to other IT specialists and creatives to see how they would improve these formats would dramatically improve my knowledge and experience. Most importantly being open to constructive criticism. 
  </p>
 
-<h1 style="color: Black;">project ideas</h1>
+<h1 style="color: Black;">Project ideas</h1>
 <h1 style="Font-size:130%;">
 <p style="color:Black;">Create a dicitation software that can be used for ecommerce websites. By utilising CMU sphinx, KALDI and HTK.</p>
 
